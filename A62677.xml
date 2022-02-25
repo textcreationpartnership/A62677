@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some remarks upon the bank and other pretended banks with reasons humbly offered to the consideration of the present Parliament for establishing a real land-fund, or a money and land bank; under a regular managery, with unquestionable controuls and checks upon them: By Philalethes.</title>
+            <author>Tindall, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62677</idno>
+            <idno type="STC">Wing T1304A</idno>
+            <idno type="STC">ESTC R219328</idno>
+            <idno type="EEBO-CITATION">99830807</idno>
+            <idno type="PROQUEST">99830807</idno>
+            <idno type="VID">35261</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35261)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2083:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some remarks upon the bank and other pretended banks with reasons humbly offered to the consideration of the present Parliament for establishing a real land-fund, or a money and land bank; under a regular managery, with unquestionable controuls and checks upon them: By Philalethes.</title>
+                  <author>Tindall, William.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for E. Whitlock, near Stationers-Hall,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695 [i.e. 1696]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Philalethes = William Tindall.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication given according to Lady Day dating.</note>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land banks --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:35261:1" rendition="simple:additions"/>
+            <head>
+               <hi>Some REMARKS upon the</hi> BANK <hi>and other</hi> pretended Banks, <hi>with Reaſons humbly offered to the Conſideration of the Preſent Parliament for eſtabliſhing a</hi> REAL LAND-FUND, <hi>or a</hi> MONEY AND LAND BANK; <hi>under a regular Managery, with unqueſtionable Controuls and Checks upon them: By</hi> Philalethes.</head>
+            <p>THE Bank of <hi>England</hi> crept into the World, not being in any Votes by that Name; but <hi>an Act for grant<g ref="char:EOLhyphen"/>ting to their Majeſties ſeveral Duties upon Tunnage of Ships, Beer, Ale,</hi> &amp;c. <hi>for ſecuring certain Recompences to ſuch as ſhould volunta<g ref="char:EOLhyphen"/>rily advance</hi> 1200000 <hi>l.</hi> on a Fund 8 <hi>l. per Cent.</hi> perpetual if not redeemed by Par<g ref="char:EOLhyphen"/>liament: This was for the King to pay dear for the Money; as he doth to <hi>T. P. H.C.A.S.B.</hi> who will not account for what they have received, <hi>&amp;c.</hi> Whereas, if it had been in the Votes, That ſuch a Bank was in<g ref="char:EOLhyphen"/>tended, there were thoſe that would have given the King as much for it, or lent a Million gratis for 7 years; which by a more regular Managery, might have re<g ref="char:EOLhyphen"/>dreſſed Grievances, done Acts of Charity, and have been more advantageous to the Kingdom: and ſince the Settlement of that Bank many Stock-jobbers, <hi>&amp;c.</hi> being excluded, conſulted with Dr. <hi>Chamberlain,</hi> with whom they pretended to join in his Land-Credit, but robb'd him of ſome No<g ref="char:EOLhyphen"/>tions he had, and afterward ſet up for themſelves, one for a <hi>Land-Bank,</hi> the other for a <hi>National Land-Bank.</hi> Then they and the Uſurers having no more Wit, quar<g ref="char:EOLhyphen"/>rel'd, and expoſe themſelves in Print to that degree, that they appear'd moſt no<g ref="char:EOLhyphen"/>torious in their Principles and Practices. Beſides their Art of Stock-jobbing, by which many Families have been ruin'd; and one was to have ¼ part of the Proſits, and the other 1000 <hi>l. per an.</hi> for ever, above what he could make by his Art in Mana<g ref="char:EOLhyphen"/>gery and Stock-jobbing (the ſame Perſons telling the Landed-Men they ſhould have <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>/4 of the Value of their Land at 3 <hi>l.</hi> 10 <hi>s.</hi> or 3 <hi>l. per cent.</hi> Intereſt) and to get in Money-Subſcribers, told them if they came in with their Money in a ſhort time, they would make 30 if not 40 <hi>l per Cent.</hi> if they made haſte, leaſt their Books were fill'd and ſhut up in ſuch a time, and they excluded. This mighty Proſpect of Advantage they were to make out, telling the Monied-Men that in a ſhort time 100 <hi>l.</hi> would cir<g ref="char:EOLhyphen"/>culate 1000 <hi>l.</hi> made ſeveral Perſons ſub<g ref="char:EOLhyphen"/>ſcribe both Money and Land; tho' many of their Gang that did ſo, to help the work on, had neither, except ſome worthy Mem<g ref="char:EOLhyphen"/>bers of Parliament, that ſubſcrib'd, inten<g ref="char:EOLhyphen"/>ding for a Publick Good; which gave them both Life and Reputation. Then the Uſurers, by <hi>Jerry-Squirt,</hi> and <hi>a Rod for the Fool's Back,</hi> were whipt about, as in truth they deſerved it; for by their get<g ref="char:EOLhyphen"/>ing Subſcriptions, and making People keep up their Money, and pay nothing but clipt or bad, on purpoſe to make their Bills paſs, on little Land and leſs Money. Now we may hope by their quarrelling they will make good the Proverb, <hi>That when Knaves fall out, honeſt Men will come by their own;</hi> and that their joining together, will not give them more Credit, but rather leſs: for the two <hi>Johns</hi> in <hi>Nubibus</hi> in Conjuncti<g ref="char:EOLhyphen"/>on in the Houſe of <hi>Venus,</hi> being filled with <hi>Mercury,</hi> are run retrograde into the Square of <hi>Saturn: Latet anguis in herba.</hi>
+            </p>
+            <p>That the King may be ſerved with 2 Millions and ½ upon his Terms on the Fund propoſed; but not by the General <hi>Land-Bank;</hi> or <hi>National Land-Bank,</hi> by the Pro<g ref="char:EOLhyphen"/>jectors contrived: but upon <hi>a Real Land-Fund,</hi> or <hi>a Money and Land-Bank;</hi> by Re<g ref="char:EOLhyphen"/>conciling the Monied and Landed-Men, Increaſing Trade, Supplying the Defects of Money, the Improvement of Land, to
+<pb facs="tcp:35261:2" rendition="simple:additions"/>
+               <pb facs="tcp:35261:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:35261:3"/>the great Benefit of the Publick, and of every individual Member of it, grounded upon the Reaſons following, <hi>viz.</hi>
+            </p>
+            <p>As all natural Bodies are the beſt Di<g ref="char:EOLhyphen"/>rectors for the Eſtabliſhing the moſt regu<g ref="char:EOLhyphen"/>lar and moſt certain Effects; ſo all other Bodies, whether Politick or Artificial, which are the Contrivances of Men, are moſt ſure, when they are beſt ſuted to that of the Natural. As for Example:</p>
+            <p>If the Monied and Landed-Men mutual<g ref="char:EOLhyphen"/>ly agree, by a regular and honeſt Manage<g ref="char:EOLhyphen"/>ry they may let the Landed-Men have Mo<g ref="char:EOLhyphen"/>ney on their Freehold-Eſtates at 3 <hi>l.</hi> 10 <hi>s.</hi> or 3 <hi>l. per Cent. per Annum,</hi> they being Truſtees for their own Money; and their own and others Lands, makes all others that deal with them ſafe, and get 10 if not 20 <hi>l. per Cent.</hi> by the Money-Stock, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nrich and make the Landed-Men eaſy by the improving their Eſtates. A Demon<g ref="char:EOLhyphen"/>ſtration of this is plain.</p>
+            <p>If the printed Calculations of the Value of the Land of <hi>England</hi> be true, that it's worth between 3 and 400 Millions, and the Money of the Kingdom about 6 Millions, and not 3 Millions good; but ſuppoſe the Land to be 300 Millions, then there is but 3 Millions of good Money that might cir<g ref="char:EOLhyphen"/>culate, which is but 1 Million to 100; which with ſome difficulty of late, hath ſerved turn: then in proportion we may well admit that one will negotiate or cir<g ref="char:EOLhyphen"/>culate ten; ſo that if the Money-Stock give 6 <hi>l. per Cent.</hi> to the Uſurers or Wi<g ref="char:EOLhyphen"/>dows, <hi>&amp;c.</hi> that live upon the Uſe of their Money, or all that can be lent, and you lend it on Land-Bills at 3 <hi>l.</hi> 10 <hi>s. per Cent. per Annum,</hi> then you get 29 <hi>l. per Cent.</hi> but if you find your own Money in Stock or Bank, by what you ſubſcribe, then you have 35 <hi>l. per Cent.</hi> for your Stock, and this will be but for 2 or 3 years, till the Value of your Bills is underſtood, and then they will circulate themſelves, when ſo you will have the Intereſt of 2 or 3 Millions for nothing; which is 105000 <hi>l. per Ann.</hi> to inrich your <hi>Bank,</hi> and ſupply the Defects of Money; and that theſe few Millions we are like to have of Mill'd Money, or tru<g ref="char:EOLhyphen"/>ly valuable Gold, may be imployed in our Trade, and attend our Manufactures and Growth, and circulate them for the Bene<g ref="char:EOLhyphen"/>fit of the Publick, and to improve your Lands to above 30, if not 40 years Pur<g ref="char:EOLhyphen"/>chaſe. This Method may ſerve the Go<g ref="char:EOLhyphen"/>vernment; but then this is by one ſort of <hi>a Money and Land-Bank,</hi> and on a better Baſis than any Banks now in being, which may lend 2 or 3 Millions on a good Fund at 6 <hi>l. per Cent.</hi> and in a ſhort time get as much: But if we are 12 Millions of People, as is preſumed we are no leſs, then there may be 11 Millions 992 thouſand Perſons that have little advantage by it. But it will inrich thoſe that ingage in it, which may be about 8000 Families, becauſe Money in ſuch wiſe and rich hands, 100 <hi>l.</hi> in time may negotiate ten, which will be at leaſt 20 or 30 <hi>l. per Cent.</hi> but in 3 or 4 years after much more, being their Bills will paſs more current than Money; but at firſt muſt be negotiated with Money, till it's better underſtood and put in Practice: But for theſe few years laſt paſt the Bad<g ref="char:EOLhyphen"/>neſs of our Money made the Bills of very ordinary Goldſmiths as well as Bankers, that ſet up the Scotch-<hi>Eaſt-India</hi> Compa<g ref="char:EOLhyphen"/>ny, paſs, and better approved than either Silver or Gold, except Mill'd-Money, tho' 5 years ago it was foreſeen by Capt. <hi>A. Stamp,</hi> who offer'd a Million to have all the Money and Plate recoined and mill'd to prevent Counterfeiting and Clipping, abating 2 <hi>d.</hi> weight of the Ounce but Sterling Silver. But if Tallies or Bills were made current by Parliament upon a <hi>Real Land-Fund</hi> at 3 <hi>l. per Cent.</hi> it would be more valuable and advantagi<g ref="char:EOLhyphen"/>ous to all, by having Truſtees choſen to the People's entire Satisfaction; let the Profits, which is the Intereſt, go towards the Charge of the War, when once un<g ref="char:EOLhyphen"/>derſtood, will be more preferrable than Money; but it being a new thing, it will require 3 or 4 years to put it in Practice, as
+<pb facs="tcp:35261:3"/>the Penny-poſt did, which is of Publick uſe. Now, ſays the Country Gentleman, or the Freeholder, <hi>(Philalethes)</hi> you ſaid enough of the Profits to make the People that live upon high Intereſt, and the rich Monied and Landed-Men, to join their Stocks to let us have Money at 3 <hi>l.</hi> 10 <hi>s.</hi> or 3 <hi>l. per Cent.</hi> but at the ſame time tell us, that Tallies or Bills on a <hi>Real Land-Fund</hi> is moſt advantagious to all: But without Money to make them circulate, it will not eaſily be put in practice under 2 or 3 years; in which time the Uſurers, and the Money and Landed-Men, may be hard upon us tho' we pay but 3 <hi>l.</hi> 10 <hi>s.</hi> or 3 <hi>l. per Cent.</hi> If it fall into the hands of thoſe rich or cunning Sparks that are join<g ref="char:EOLhyphen"/>ed, who have called one another in Print <hi>impudent K—, Libellers, Stock-jobbers,</hi> or thoſe cunning Men that got the King's Money, <hi>T.P.H.C.A.S.B.</hi> If the Parlia<g ref="char:EOLhyphen"/>ment cannot get them to account, how ſhall we, that have no Money but Land, do it, if they exclude us the Managery?</p>
+            <p>For that Reaſon I will ſhew you Land<g ref="char:EOLhyphen"/>ed-Men, tho' not in debt, and have no Money to ſpare, how to improve your Land, and have Money for almoſt no uſe; and alſo the Landed-Men that are in Debt, to be made eaſy, if not grow rich, by letting both them and you, into the Profits and Managery of the <hi>Money and Land-Bank</hi> till a real Land-Fund can be ſettled: If the <hi>Money and Land-Bank</hi> do not anſwer your Ends, as I am ſure it will, if you keep out the <hi>Stock-jobbers,</hi> in Print, and the <hi>Kn—</hi>; and be care<g ref="char:EOLhyphen"/>ful in the Managry (as I can ſhew how if commanded or deſired): For the Practick part is beyond the Theorick.</p>
+            <p>Therefore I will demonſtrate here the Landed-men as well as the Monied may have their Shares in the Managery, and in the Profits of a <hi>Money and Land-Bank,</hi> which the Monied-men of the Bank will accept of. As Inſtance,</p>
+            <p>Suppoſe a Landed-man, not in Debt, or one in Debt, takes up ¾ or 1500 <hi>l.</hi> on 100 <hi>l. per An.</hi> good Land, at 3 <hi>l.</hi> or rather 3 <hi>l.</hi> 10 <hi>s. per Cent.</hi> from this <hi>Bank;</hi> he may have 1000 <hi>l.</hi> in Money, to uſe or pay Debts, and 500 <hi>l.</hi> in Bills, which you are to note are as good, if not better than Money, being on a Land-Fund; and the <hi>Bank</hi> will thankfully accept them as Money in Stock, if you pleaſe: So then you have ⅓ in Bank-Stock, that is 500 <hi>l.</hi> which in time may make you 10 <hi>l.</hi> if not 20 <hi>l. per cent.</hi> but ſuppoſe at preſent but 6 <hi>l.</hi> 10 <hi>s.</hi> or if 7 <hi>l. per Cent.</hi> then you have the uſe of your 1000 <hi>l.</hi> for nothing. So every Man that wants Money that borrows of his Land, may if he pleaſe, by this Method, put ⅓ into the <hi>Bank,</hi> and then he hath the uſe of the other ⅔ for nothing; or he may put in ½, or what he pleaſes, into the <hi>Bank,</hi> and then he doth not only get the other ½ for nothing, but may have great Profits from the <hi>Bank,</hi> as well as ſhare in Ma<g ref="char:EOLhyphen"/>nagery; and this is true and honeſt with<g ref="char:EOLhyphen"/>out Tricks, <hi>&amp;c.</hi> Or if thoſe Gentlemen that borrow ¼ upon their Eſtates, at 3 <hi>l. per cent.</hi> will (as I could demonſtrate it's their Intereſt they ſhould) lond or ſupply the King with a ⅕ part of what they take up <hi>(On a Real Land-Fund made Current):</hi> He will then have no occaſion to borrow two Millions any other way; and their Land will be improved in five Years time to a much greater value than what they lend the King. But if the Honourable Houſe do not incline to it, then by Subſcriptions, as the Bank of <hi>England,</hi> for Recompences, <hi>&amp;c. To a Money and Land-Bank</hi> will do well, as aforeſaid.</p>
+            <p>And whereas at firſt the Bank of <hi>Eng.</hi> gave 3 <hi>l. per cent.</hi> for Money to negotiate their Bills, 1 <hi>d. per</hi> day is ſufficient, or rather to abate 10 <hi>s. per cent.</hi> of Intereſt Money will pleaſe.</p>
+            <p>I will not omit telling you what the Stock-Jobbers, or others, have ſaid in their printed Papers; ſometimes the Land of <hi>England</hi> is worth 3 or 400 Millions, and that one half of it is Mortgag'd, or at leaſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, which Calculation is falſe, and
+<pb facs="tcp:35261:4"/>a Sham: Though we may preſume that a 30th or 40th part may be engaged. Then we will ſuppoſe a ſhort Scheme of ten Millions, at 3 <hi>l.</hi> 10 <hi>s. per cent.</hi> which is a 40th part, to be ſunk from 6 <hi>l. per cent.</hi> to 3 <hi>l.</hi> 10 <hi>s.</hi> will ſave them near 300000 <hi>l. per An.</hi> which well imployed will be a great Improvement to their Eſtates; and alſo, by letting that intereſt go towards the defraying the Charge of the War, will ſave them near 350000 <hi>l. per Annum,</hi> which will be a good Annual Fund to raiſe Three Millions and a half, to pay at time; or a Fund to pay Intereſt for a<g ref="char:EOLhyphen"/>bove 5 Millions and ½, beſides all Char<g ref="char:EOLhyphen"/>ges of Offices and Officers. As Inſtance,</p>
+            <div type="part">
+               <head>Pro bono Publico.</head>
+               <p>Admit 10 Millions, which is the 40th part, at 3 <hi>l.</hi> 10 <hi>s. per cent. per An.</hi> that is, 350000 <hi>l. per An.</hi> to continue for 10 years, will raiſe and pay 3 Millions and a half. But ſuppoſe 50 Millions, which ſome call an 8th. but we will admit a 6th part, which is much ſhort of what ſome Pro<g ref="char:EOLhyphen"/>jectors pretend to know there is occaſion for, the Intereſt of which 50 Millions, at 3 <hi>l.</hi> 10 <hi>s. per cent.</hi> is 1750000 <hi>l. per An.</hi> which in ten years pays 17 Millions and a half Debt. By this Scheme the Freee holders get almoſt as much as they give the Publick: But if it ſave their Land from being Tax'd, then they get by this Truſt-Security of the <hi>Real Land-Fund,</hi> 17 Millions and a half, in ten years time; which will enable the King and his Sub<g ref="char:EOLhyphen"/>jects to carry on the War with Vigour, until his Majeſty becomes Conquerour.</p>
+               <closer>
+                  <signed>Collumba Dianae Philalethes.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>Note,</hi> There hath been much Giddineſs in Print about the Subjects of <hi>Banks;</hi> and there may be <hi>Counterfeit-Money, Bills,</hi> and <hi>Bad Titles:</hi> Thoſe are Bug-Beats to fright Children, but there are Men of Under<g ref="char:EOLhyphen"/>ſtanding can prevent all theſe Fooleries, by Managery. The Parliament, in their great Wiſdom, may for the preſent ſettle Methods as they pleaſe, if nothing in this is approved; but it's humbly prayed that no Bank be ſo eſtabliſhed, but redeemable by Parliament, and not to prevent better ways and means that may be offered by any other for the future, or Propoſed by</p>
+               <closer>
+                  <dateline>
+                     <date>March 2. 1695.</date>
+                  </dateline>
+                  <signed>William Tindall.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>E. Whitlock,</hi> near <hi>Stationers-Hall,,</hi> 1695.</p>
+            <pb facs="tcp:35261:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
